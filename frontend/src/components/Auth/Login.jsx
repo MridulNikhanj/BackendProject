@@ -48,7 +48,7 @@ const Login = () => {
       <div className="authPage">
         <div className="container">
           <div className="header">
-            <img src="/JobZeelogo.png" alt="logo" />
+            <img src="/LL.png" alt="logo" />
             <h3>Login to your account</h3>
           </div>
           <form>
@@ -96,7 +96,7 @@ const Login = () => {
           </form>
         </div>
         <div className="banner">
-          <img src="/login.png" alt="login" />
+          <img src="/main-banner.png" alt="login" />
         </div>
       </div>
     </>

@@ -52,7 +52,7 @@ const Register = () => {
       <div className="authPage">
         <div className="container">
           <div className="header">
-            <img src="/JobZeelogo.png" alt="logo" />
+            <img src="/LL.png" alt="logo" />
             <h3>Create a new account</h3>
           </div>
           <form>
@@ -122,7 +122,7 @@ const Register = () => {
           </form>
         </div>
         <div className="banner">
-          <img src="/register.png" alt="register" />
+          <img src="/2311.png_860-transformed.png" alt="register" />
         </div>
       </div>
     </>

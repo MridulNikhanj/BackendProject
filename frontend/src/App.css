@@ -96,8 +96,8 @@ p {
   font-size: 1.6rem;
 }
 .authPage .container .header img {
-  width: 300px;
-  height: 120px;
+  width: 500px;
+  height: 170px;
   margin: 0 auto;
 }
 .authPage .container .header {
@@ -250,7 +250,7 @@ p {
 }
 .heroSection .container {
   display: flex;
-  height: 450px;
+  height: 600px;
   margin-bottom: 1.75rem;
 }
 .heroSection .container .title,
@@ -1160,8 +1160,9 @@ nav .container {
   justify-content: space-between;
 }
 nav .container .logo {
-  width: 120px;
-  height: 120px;
+  width: 250px;
+  height: 85px;
+  padding: 5px 0;
 }
 nav .container .logo img {
   width: 100%;
